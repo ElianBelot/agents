@@ -1,4 +1,4 @@
-# Pokerbots, better than MIT
+# Agents
 
 To get it running,
 ```
